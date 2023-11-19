@@ -1,0 +1,8 @@
+.links {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+.link-item:not(:last-child) {
+  margin-bottom: 10px;
+}

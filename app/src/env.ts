@@ -1,0 +1,1 @@
+export const BASE_URL = 'vue_apexchart-examples';
